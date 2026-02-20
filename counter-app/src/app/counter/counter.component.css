@@ -1,0 +1,42 @@
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.increment {
+    background-color: rgb(79, 124, 12);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.reset {
+    background-color: #1772c1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.decrement {
+    background-color: rgb(204, 49, 49);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.container {
+    text-align: center;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
