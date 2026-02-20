@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  color: #34495e;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+}
+
+ul {
+  max-width: 400px;
+  margin: 20px auto;
+  list-style-type: square;
+  font-size: 16px;
+}
+li {
+  margin: 10px 0;
+}
+nav {
+  background-color: #2980b9;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
